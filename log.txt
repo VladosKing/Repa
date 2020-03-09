@@ -1,0 +1,12 @@
+commit 4529b0497067d58a4e28b6ae52573f90d813ddbf (HEAD -> master)
+Author: Vlad <vladking1408@mail.ru>
+Date:   Tue Mar 10 01:01:52 2020 +0200
+
+    add status.txt
+
+commit 8d11c241ed5abe96b583e293f0d58fbfbe5512f8
+Author: Vlad <vladking1408@mail.ru>
+Date:   Tue Mar 10 00:32:57 2020 +0200
+
+    add .gitignore
+
